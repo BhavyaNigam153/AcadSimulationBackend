@@ -11,7 +11,7 @@ const allowedOrigins = (
     'http://localhost:5173',
     'http://127.0.0.1:3000',
     'http://127.0.0.1:5173',
-    'https://acadsimulationfrontend.vercel.app/',
+    'https://acadsimulationfrontend.vercel.app',
   ].join(',')
 )
   .split(',')
@@ -20,8 +20,15 @@ const allowedOrigins = (
 
 app.use(
   cors({
-    origin: allowedOrigins,
+    origin(origin, callback) {
+      if (!origin || allowedOrigins.includes(origin)) {
+        return callback(null, true);
+      }
+
+      return callback(new Error(`Origin ${origin} is not allowed by CORS.`));
+    },
     methods: ['GET', 'POST', 'OPTIONS'],
+    allowedHeaders: ['Content-Type'],
   }),
 );
 app.use(express.json());
