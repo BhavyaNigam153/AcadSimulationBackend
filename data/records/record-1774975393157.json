@@ -1,0 +1,1364 @@
+{
+  "id": "record-1774975393157",
+  "originalName": "23_03_2026.xlsx",
+  "storedFileName": "record-1774975393157-23_03_2026.xlsx",
+  "uploadedAt": "2026-03-31T16:43:13.157Z",
+  "dataDate": "2026-03-23",
+  "source": "upload",
+  "dataset": {
+    "rooms": [
+      {
+        "roomId": "019",
+        "roomNameEn": "Aryabhatta",
+        "roomNameHi": "आर्यभट्ट",
+        "capacity": 45,
+        "type": "Lecture Hall",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "020",
+        "roomNameEn": "Arjuna",
+        "roomNameHi": "अर्जुन",
+        "capacity": 45,
+        "type": "Lecture Hall",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "021",
+        "roomNameEn": "Meeting Room",
+        "roomNameHi": "बैठक कक्ष",
+        "capacity": 45,
+        "type": "Meeting Room",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "022",
+        "roomNameEn": "Augstya",
+        "roomNameHi": "अगस्त्य",
+        "capacity": 90,
+        "type": "Lecture Hall",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "023",
+        "roomNameEn": "Meeting Room",
+        "roomNameHi": "बैठक कक्ष",
+        "capacity": 45,
+        "type": "Meeting Room",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "024",
+        "roomNameEn": "Chanakya",
+        "roomNameHi": "चाणक्य",
+        "capacity": 90,
+        "type": "Lecture Hall",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "026",
+        "roomNameEn": "Dronacharya",
+        "roomNameHi": "द्रोणाचार्य",
+        "capacity": 90,
+        "type": "Lecture Hall",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "027",
+        "roomNameEn": "Prahalad",
+        "roomNameHi": "प्रह्लाद",
+        "capacity": 90,
+        "type": "Meeting Room",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "029",
+        "roomNameEn": "Bharat",
+        "roomNameHi": "भरत",
+        "capacity": 45,
+        "type": "Lecture Hall",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "031",
+        "roomNameEn": "Kashyap",
+        "roomNameHi": "कश्यप",
+        "capacity": 45,
+        "type": "Meeting Room",
+        "floor": "Ground"
+      },
+      {
+        "roomId": "119",
+        "roomNameEn": "Kripacharya",
+        "roomNameHi": "कृपाचार्य",
+        "capacity": 45,
+        "type": "Lecture Hall",
+        "floor": "First"
+      },
+      {
+        "roomId": "121",
+        "roomNameEn": "Markandey",
+        "roomNameHi": "मार्कण्डेय",
+        "capacity": 45,
+        "type": "Lecture Hall",
+        "floor": "First"
+      },
+      {
+        "roomId": "123",
+        "roomNameEn": "Nagarjuna",
+        "roomNameHi": "नागार्जुन",
+        "capacity": 90,
+        "type": "Meeting Room",
+        "floor": "First"
+      },
+      {
+        "roomId": "125",
+        "roomNameEn": "Patanjali",
+        "roomNameHi": "पतंजलि",
+        "capacity": 90,
+        "type": "Meeting Room",
+        "floor": "First"
+      },
+      {
+        "roomId": "127",
+        "roomNameEn": "Vivekananda",
+        "roomNameHi": "विवेकानंद",
+        "capacity": 150,
+        "type": "Lecture Hall",
+        "floor": "First"
+      },
+      {
+        "roomId": "128",
+        "roomNameEn": "Shankaracharya",
+        "roomNameHi": "शंकराचार्य",
+        "capacity": 90,
+        "type": "Meeting Room",
+        "floor": "First"
+      },
+      {
+        "roomId": "129",
+        "roomNameEn": "Valmiki",
+        "roomNameHi": "वाल्मीकि",
+        "capacity": 90,
+        "type": "Meeting Room",
+        "floor": "First"
+      },
+      {
+        "roomId": "130",
+        "roomNameEn": "Vashishth",
+        "roomNameHi": "वशिष्ठ",
+        "capacity": 45,
+        "type": "Meeting Room",
+        "floor": "First"
+      },
+      {
+        "roomId": "131",
+        "roomNameEn": "Vyas",
+        "roomNameHi": "व्यास",
+        "capacity": 45,
+        "type": "Meeting Room",
+        "floor": "First"
+      },
+      {
+        "roomId": "219",
+        "roomNameEn": "Ramanuj",
+        "roomNameHi": "रामानुज",
+        "capacity": 75,
+        "type": "Lecture Hall",
+        "floor": "Second"
+      },
+      {
+        "roomId": "221",
+        "roomNameEn": "Attri",
+        "roomNameHi": "अत्रि",
+        "capacity": 75,
+        "type": "Meeting Room",
+        "floor": "Second"
+      },
+      {
+        "roomId": "223",
+        "roomNameEn": "Eklavya",
+        "roomNameHi": "एकलव्य",
+        "capacity": 75,
+        "type": "Meeting Room",
+        "floor": "Second"
+      },
+      {
+        "roomId": "319",
+        "roomNameEn": "Pulastya",
+        "roomNameHi": "पुलस्त्य",
+        "capacity": 75,
+        "type": "Meeting Room",
+        "floor": "Third"
+      },
+      {
+        "roomId": "321",
+        "roomNameEn": "Sandipani",
+        "roomNameHi": "संदीपनि",
+        "capacity": 75,
+        "type": "Meeting Room",
+        "floor": "Third"
+      }
+    ],
+    "timetable": [
+      {
+        "classId": "IPM04_A",
+        "subject": "Financial Systems and Markets",
+        "roomId": "223",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM04_B",
+        "subject": "Indian Polity",
+        "roomId": "221",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM04_A",
+        "subject": "Indian Polity",
+        "roomId": "223",
+        "startTime": "10:15",
+        "endTime": "11:15",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM04_B",
+        "subject": "Financial Systems and Markets",
+        "roomId": "221",
+        "startTime": "10:15",
+        "endTime": "11:15",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM04_A",
+        "subject": "Digital Culture",
+        "roomId": "223",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM04_B",
+        "subject": "Consumer Behavior",
+        "roomId": "221",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM04_A",
+        "subject": "Consumer Behavior",
+        "roomId": "223",
+        "startTime": "12:45",
+        "endTime": "13:45",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM04_B",
+        "subject": "Digital Culture",
+        "roomId": "221",
+        "startTime": "12:45",
+        "endTime": "13:45",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM05_A",
+        "subject": "Principles of Computational Thinking",
+        "roomId": "319",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM05_B",
+        "subject": "Critical Thinking and Problem Solving",
+        "roomId": "321",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM05_A",
+        "subject": "Critical Thinking and Problem Solving",
+        "roomId": "319",
+        "startTime": "10:15",
+        "endTime": "11:15",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM05_B",
+        "subject": "Principles of Computational Thinking",
+        "roomId": "321",
+        "startTime": "10:15",
+        "endTime": "11:15",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM05_A",
+        "subject": "Introduction to Psychology",
+        "roomId": "319",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "day": "Monday"
+      },
+      {
+        "classId": "IPM05_B",
+        "subject": "Introduction to Psychology",
+        "roomId": "321",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_A",
+        "subject": "Strategic Marketing",
+        "roomId": "022",
+        "startTime": "10:45",
+        "endTime": "12:15",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_B",
+        "subject": "AI in Marketing",
+        "roomId": "024",
+        "startTime": "10:45",
+        "endTime": "12:15",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_A",
+        "subject": "AI in Marketing",
+        "roomId": "022",
+        "startTime": "12:30",
+        "endTime": "14:00",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_B",
+        "subject": "Strategic Marketing",
+        "roomId": "024",
+        "startTime": "12:30",
+        "endTime": "14:00",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_A",
+        "subject": "Pricing",
+        "roomId": "022",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_B",
+        "subject": "Pricing",
+        "roomId": "024",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_A",
+        "subject": "Game Theory for Managers",
+        "roomId": "022",
+        "startTime": "16:45",
+        "endTime": "18:15",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_B",
+        "subject": "Business Leadership",
+        "roomId": "024",
+        "startTime": "16:45",
+        "endTime": "18:15",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_A",
+        "subject": "Business Leadership",
+        "roomId": "022",
+        "startTime": "18:30",
+        "endTime": "20:00",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_C",
+        "subject": "ENVP",
+        "roomId": "026",
+        "startTime": "09:30",
+        "endTime": "11:00",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_E",
+        "subject": "SCM",
+        "roomId": "123",
+        "startTime": "09:30",
+        "endTime": "11:00",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_D",
+        "subject": "BEI&W",
+        "roomId": "027",
+        "startTime": "11:15",
+        "endTime": "12:45",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_E",
+        "subject": "BC-III",
+        "roomId": "123",
+        "startTime": "11:15",
+        "endTime": "12:45",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_C",
+        "subject": "BC-III",
+        "roomId": "026",
+        "startTime": "13:00",
+        "endTime": "14:30",
+        "day": "Monday"
+      },
+      {
+        "classId": "MBA10_E",
+        "subject": "BEI&W",
+        "roomId": "123",
+        "startTime": "13:00",
+        "endTime": "14:30",
+        "day": "Monday"
+      }
+    ],
+    "enrollments": [
+      {
+        "classId": "IPM04_A",
+        "studentCount": 60
+      },
+      {
+        "classId": "IPM04_B",
+        "studentCount": 60
+      },
+      {
+        "classId": "IPM05_A",
+        "studentCount": 75
+      },
+      {
+        "classId": "IPM05_B",
+        "studentCount": 75
+      },
+      {
+        "classId": "MBA10_C",
+        "studentCount": 80
+      },
+      {
+        "classId": "MBA10_E",
+        "studentCount": 80
+      },
+      {
+        "classId": "MBA10_B",
+        "studentCount": 80
+      },
+      {
+        "classId": "MBA10_A",
+        "studentCount": 80
+      },
+      {
+        "classId": "MBA10_D",
+        "studentCount": 80
+      }
+    ]
+  },
+  "metrics": {
+    "summary": {
+      "totalRooms": 24,
+      "avgOccupancy": 0.89,
+      "peakHour": "10:45"
+    },
+    "rooms": [
+      {
+        "roomId": "019",
+        "roomNameEn": "Aryabhatta",
+        "roomNameHi": "आर्यभट्ट",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "020",
+        "roomNameEn": "Arjuna",
+        "roomNameHi": "अर्जुन",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "021",
+        "roomNameEn": "Meeting Room",
+        "roomNameHi": "बैठक कक्ष",
+        "floor": "Ground",
+        "type": "Meeting Room",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "022",
+        "roomNameEn": "Augstya",
+        "roomNameHi": "अगस्त्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "avgOccupancy": 0.89,
+        "utilization": 0.68,
+        "status": "normal",
+        "recommendation": ""
+      },
+      {
+        "roomId": "023",
+        "roomNameEn": "Meeting Room",
+        "roomNameHi": "बैठक कक्ष",
+        "floor": "Ground",
+        "type": "Meeting Room",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "024",
+        "roomNameEn": "Chanakya",
+        "roomNameHi": "चाणक्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "avgOccupancy": 0.89,
+        "utilization": 0.55,
+        "status": "normal",
+        "recommendation": ""
+      },
+      {
+        "roomId": "026",
+        "roomNameEn": "Dronacharya",
+        "roomNameHi": "द्रोणाचार्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "avgOccupancy": 0.89,
+        "utilization": 0.27,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "027",
+        "roomNameEn": "Prahalad",
+        "roomNameHi": "प्रह्लाद",
+        "floor": "Ground",
+        "type": "Meeting Room",
+        "capacity": 90,
+        "avgOccupancy": 0.89,
+        "utilization": 0.14,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "029",
+        "roomNameEn": "Bharat",
+        "roomNameHi": "भरत",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "031",
+        "roomNameEn": "Kashyap",
+        "roomNameHi": "कश्यप",
+        "floor": "Ground",
+        "type": "Meeting Room",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "119",
+        "roomNameEn": "Kripacharya",
+        "roomNameHi": "कृपाचार्य",
+        "floor": "First",
+        "type": "Lecture Hall",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "121",
+        "roomNameEn": "Markandey",
+        "roomNameHi": "मार्कण्डेय",
+        "floor": "First",
+        "type": "Lecture Hall",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "123",
+        "roomNameEn": "Nagarjuna",
+        "roomNameHi": "नागार्जुन",
+        "floor": "First",
+        "type": "Meeting Room",
+        "capacity": 90,
+        "avgOccupancy": 0.89,
+        "utilization": 0.41,
+        "status": "normal",
+        "recommendation": ""
+      },
+      {
+        "roomId": "125",
+        "roomNameEn": "Patanjali",
+        "roomNameHi": "पतंजलि",
+        "floor": "First",
+        "type": "Meeting Room",
+        "capacity": 90,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "127",
+        "roomNameEn": "Vivekananda",
+        "roomNameHi": "विवेकानंद",
+        "floor": "First",
+        "type": "Lecture Hall",
+        "capacity": 150,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "128",
+        "roomNameEn": "Shankaracharya",
+        "roomNameHi": "शंकराचार्य",
+        "floor": "First",
+        "type": "Meeting Room",
+        "capacity": 90,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "129",
+        "roomNameEn": "Valmiki",
+        "roomNameHi": "वाल्मीकि",
+        "floor": "First",
+        "type": "Meeting Room",
+        "capacity": 90,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "130",
+        "roomNameEn": "Vashishth",
+        "roomNameHi": "वशिष्ठ",
+        "floor": "First",
+        "type": "Meeting Room",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "131",
+        "roomNameEn": "Vyas",
+        "roomNameHi": "व्यास",
+        "floor": "First",
+        "type": "Meeting Room",
+        "capacity": 45,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "219",
+        "roomNameEn": "Ramanuj",
+        "roomNameHi": "रामानुज",
+        "floor": "Second",
+        "type": "Lecture Hall",
+        "capacity": 75,
+        "avgOccupancy": 0,
+        "utilization": 0,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "221",
+        "roomNameEn": "Attri",
+        "roomNameHi": "अत्रि",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "avgOccupancy": 0.8,
+        "utilization": 0.36,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "223",
+        "roomNameEn": "Eklavya",
+        "roomNameHi": "एकलव्य",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "avgOccupancy": 0.8,
+        "utilization": 0.36,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "319",
+        "roomNameEn": "Pulastya",
+        "roomNameHi": "पुलस्त्य",
+        "floor": "Third",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "avgOccupancy": 1,
+        "utilization": 0.27,
+        "status": "underutilized",
+        "recommendation": ""
+      },
+      {
+        "roomId": "321",
+        "roomNameEn": "Sandipani",
+        "roomNameHi": "संदीपनि",
+        "floor": "Third",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "avgOccupancy": 1,
+        "utilization": 0.27,
+        "status": "underutilized",
+        "recommendation": ""
+      }
+    ],
+    "timeSeries": [
+      {
+        "time": "09:00",
+        "students": 270
+      },
+      {
+        "time": "09:30",
+        "students": 430
+      },
+      {
+        "time": "10:00",
+        "students": 160
+      },
+      {
+        "time": "10:15",
+        "students": 430
+      },
+      {
+        "time": "10:45",
+        "students": 590
+      },
+      {
+        "time": "11:00",
+        "students": 430
+      },
+      {
+        "time": "11:15",
+        "students": 320
+      },
+      {
+        "time": "11:30",
+        "students": 590
+      },
+      {
+        "time": "12:15",
+        "students": 430
+      },
+      {
+        "time": "12:30",
+        "students": 320
+      },
+      {
+        "time": "12:45",
+        "students": 280
+      },
+      {
+        "time": "13:00",
+        "students": 440
+      },
+      {
+        "time": "13:45",
+        "students": 320
+      },
+      {
+        "time": "14:00",
+        "students": 160
+      },
+      {
+        "time": "14:30",
+        "students": 0
+      },
+      {
+        "time": "15:00",
+        "students": 160
+      },
+      {
+        "time": "16:30",
+        "students": 0
+      },
+      {
+        "time": "16:45",
+        "students": 160
+      },
+      {
+        "time": "18:15",
+        "students": 0
+      },
+      {
+        "time": "18:30",
+        "students": 80
+      },
+      {
+        "time": "20:00",
+        "students": 0
+      }
+    ],
+    "classes": [
+      {
+        "classId": "IPM04_A",
+        "program": "Management",
+        "subject": "Financial Systems and Markets",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "roomId": "223",
+        "roomNameEn": "Eklavya",
+        "roomNameHi": "एकलव्य",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 60,
+        "occupancy": 0.8,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM04_B",
+        "program": "Management",
+        "subject": "Indian Polity",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "roomId": "221",
+        "roomNameEn": "Attri",
+        "roomNameHi": "अत्रि",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 60,
+        "occupancy": 0.8,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM05_A",
+        "program": "Management",
+        "subject": "Principles of Computational Thinking",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "roomId": "319",
+        "roomNameEn": "Pulastya",
+        "roomNameHi": "पुलस्त्य",
+        "floor": "Third",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 75,
+        "occupancy": 1,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM05_B",
+        "program": "Management",
+        "subject": "Critical Thinking and Problem Solving",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "roomId": "321",
+        "roomNameEn": "Sandipani",
+        "roomNameHi": "संदीपनि",
+        "floor": "Third",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 75,
+        "occupancy": 1,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_C",
+        "program": "Management",
+        "subject": "ENVP",
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "11:00",
+        "roomId": "026",
+        "roomNameEn": "Dronacharya",
+        "roomNameHi": "द्रोणाचार्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_E",
+        "program": "Management",
+        "subject": "SCM",
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "11:00",
+        "roomId": "123",
+        "roomNameEn": "Nagarjuna",
+        "roomNameHi": "नागार्जुन",
+        "floor": "First",
+        "type": "Meeting Room",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM04_A",
+        "program": "Management",
+        "subject": "Indian Polity",
+        "day": "Monday",
+        "startTime": "10:15",
+        "endTime": "11:15",
+        "roomId": "223",
+        "roomNameEn": "Eklavya",
+        "roomNameHi": "एकलव्य",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 60,
+        "occupancy": 0.8,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM04_B",
+        "program": "Management",
+        "subject": "Financial Systems and Markets",
+        "day": "Monday",
+        "startTime": "10:15",
+        "endTime": "11:15",
+        "roomId": "221",
+        "roomNameEn": "Attri",
+        "roomNameHi": "अत्रि",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 60,
+        "occupancy": 0.8,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM05_A",
+        "program": "Management",
+        "subject": "Critical Thinking and Problem Solving",
+        "day": "Monday",
+        "startTime": "10:15",
+        "endTime": "11:15",
+        "roomId": "319",
+        "roomNameEn": "Pulastya",
+        "roomNameHi": "पुलस्त्य",
+        "floor": "Third",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 75,
+        "occupancy": 1,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM05_B",
+        "program": "Management",
+        "subject": "Principles of Computational Thinking",
+        "day": "Monday",
+        "startTime": "10:15",
+        "endTime": "11:15",
+        "roomId": "321",
+        "roomNameEn": "Sandipani",
+        "roomNameHi": "संदीपनि",
+        "floor": "Third",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 75,
+        "occupancy": 1,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_A",
+        "program": "Management",
+        "subject": "Strategic Marketing",
+        "day": "Monday",
+        "startTime": "10:45",
+        "endTime": "12:15",
+        "roomId": "022",
+        "roomNameEn": "Augstya",
+        "roomNameHi": "अगस्त्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_B",
+        "program": "Management",
+        "subject": "AI in Marketing",
+        "day": "Monday",
+        "startTime": "10:45",
+        "endTime": "12:15",
+        "roomId": "024",
+        "roomNameEn": "Chanakya",
+        "roomNameHi": "चाणक्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_D",
+        "program": "Management",
+        "subject": "BEI&W",
+        "day": "Monday",
+        "startTime": "11:15",
+        "endTime": "12:45",
+        "roomId": "027",
+        "roomNameEn": "Prahalad",
+        "roomNameHi": "प्रह्लाद",
+        "floor": "Ground",
+        "type": "Meeting Room",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_E",
+        "program": "Management",
+        "subject": "BC-III",
+        "day": "Monday",
+        "startTime": "11:15",
+        "endTime": "12:45",
+        "roomId": "123",
+        "roomNameEn": "Nagarjuna",
+        "roomNameHi": "नागार्जुन",
+        "floor": "First",
+        "type": "Meeting Room",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM04_A",
+        "program": "Management",
+        "subject": "Digital Culture",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "roomId": "223",
+        "roomNameEn": "Eklavya",
+        "roomNameHi": "एकलव्य",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 60,
+        "occupancy": 0.8,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM04_B",
+        "program": "Management",
+        "subject": "Consumer Behavior",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "roomId": "221",
+        "roomNameEn": "Attri",
+        "roomNameHi": "अत्रि",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 60,
+        "occupancy": 0.8,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM05_A",
+        "program": "Management",
+        "subject": "Introduction to Psychology",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "roomId": "319",
+        "roomNameEn": "Pulastya",
+        "roomNameHi": "पुलस्त्य",
+        "floor": "Third",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 75,
+        "occupancy": 1,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM05_B",
+        "program": "Management",
+        "subject": "Introduction to Psychology",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "roomId": "321",
+        "roomNameEn": "Sandipani",
+        "roomNameHi": "संदीपनि",
+        "floor": "Third",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 75,
+        "occupancy": 1,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_A",
+        "program": "Management",
+        "subject": "AI in Marketing",
+        "day": "Monday",
+        "startTime": "12:30",
+        "endTime": "14:00",
+        "roomId": "022",
+        "roomNameEn": "Augstya",
+        "roomNameHi": "अगस्त्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_B",
+        "program": "Management",
+        "subject": "Strategic Marketing",
+        "day": "Monday",
+        "startTime": "12:30",
+        "endTime": "14:00",
+        "roomId": "024",
+        "roomNameEn": "Chanakya",
+        "roomNameHi": "चाणक्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM04_A",
+        "program": "Management",
+        "subject": "Consumer Behavior",
+        "day": "Monday",
+        "startTime": "12:45",
+        "endTime": "13:45",
+        "roomId": "223",
+        "roomNameEn": "Eklavya",
+        "roomNameHi": "एकलव्य",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 60,
+        "occupancy": 0.8,
+        "status": "normal"
+      },
+      {
+        "classId": "IPM04_B",
+        "program": "Management",
+        "subject": "Digital Culture",
+        "day": "Monday",
+        "startTime": "12:45",
+        "endTime": "13:45",
+        "roomId": "221",
+        "roomNameEn": "Attri",
+        "roomNameHi": "अत्रि",
+        "floor": "Second",
+        "type": "Meeting Room",
+        "capacity": 75,
+        "studentCount": 60,
+        "occupancy": 0.8,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_C",
+        "program": "Management",
+        "subject": "BC-III",
+        "day": "Monday",
+        "startTime": "13:00",
+        "endTime": "14:30",
+        "roomId": "026",
+        "roomNameEn": "Dronacharya",
+        "roomNameHi": "द्रोणाचार्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_E",
+        "program": "Management",
+        "subject": "BEI&W",
+        "day": "Monday",
+        "startTime": "13:00",
+        "endTime": "14:30",
+        "roomId": "123",
+        "roomNameEn": "Nagarjuna",
+        "roomNameHi": "नागार्जुन",
+        "floor": "First",
+        "type": "Meeting Room",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_A",
+        "program": "Management",
+        "subject": "Pricing",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "roomId": "022",
+        "roomNameEn": "Augstya",
+        "roomNameHi": "अगस्त्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_B",
+        "program": "Management",
+        "subject": "Pricing",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "roomId": "024",
+        "roomNameEn": "Chanakya",
+        "roomNameHi": "चाणक्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_A",
+        "program": "Management",
+        "subject": "Game Theory for Managers",
+        "day": "Monday",
+        "startTime": "16:45",
+        "endTime": "18:15",
+        "roomId": "022",
+        "roomNameEn": "Augstya",
+        "roomNameHi": "अगस्त्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_B",
+        "program": "Management",
+        "subject": "Business Leadership",
+        "day": "Monday",
+        "startTime": "16:45",
+        "endTime": "18:15",
+        "roomId": "024",
+        "roomNameEn": "Chanakya",
+        "roomNameHi": "चाणक्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      },
+      {
+        "classId": "MBA10_A",
+        "program": "Management",
+        "subject": "Business Leadership",
+        "day": "Monday",
+        "startTime": "18:30",
+        "endTime": "20:00",
+        "roomId": "022",
+        "roomNameEn": "Augstya",
+        "roomNameHi": "अगस्त्य",
+        "floor": "Ground",
+        "type": "Lecture Hall",
+        "capacity": 90,
+        "studentCount": 80,
+        "occupancy": 0.89,
+        "status": "normal"
+      }
+    ],
+    "meta": {
+      "recordId": "record-1774975393157",
+      "recordType": "actual",
+      "originalName": "23_03_2026.xlsx",
+      "uploadedAt": "2026-03-31T16:43:13.157Z",
+      "dataDate": "2026-03-23",
+      "source": "upload",
+      "label": "Uploaded Workbook",
+      "weekday": "Monday"
+    }
+  }
+}
