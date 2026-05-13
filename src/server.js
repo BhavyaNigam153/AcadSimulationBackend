@@ -1,4 +1,5 @@
 import app from './app.js';
+import axios from "axios";
 import { initializePersistence, isMongoConfigured } from "./store/persistence.js";
 
 const PORT = Number(process.env.PORT) || 8000;
@@ -13,7 +14,7 @@ app.listen(PORT, HOST, () => {
   );
 });
 
-const axios = require('axios');
+
 
 const URL = 'https://acadsimulationbackend-80sa.onrender.com/';
 
