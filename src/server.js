@@ -16,13 +16,3 @@ app.listen(PORT, HOST, () => {
 
 
 
-const URL = 'https://acadsimulationbackend-80sa.onrender.com/';
-
-setInterval(async () => {
-  try {
-    const response = await axios.get(URL);
-    console.log('Pinged successfully:', response.status);
-  } catch (err) {
-    console.log('Ping failed');
-  }
-}, 30000);
